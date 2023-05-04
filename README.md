@@ -1,2 +1,2 @@
 # PrepcourseHenry
-Ejemplo de nuevo repositorio y su configuración 
+Ejemplo de nuevo repositorio y su configuració, cambios realizados
